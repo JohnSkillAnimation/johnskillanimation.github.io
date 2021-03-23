@@ -25,3 +25,8 @@ a {
 #main {
     color: rgb(0, 0, 0);
 }
+
+#footer {
+    text-align: right;
+    text-size-adjust: auto;
+}
