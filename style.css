@@ -4,6 +4,7 @@ body {
 
 #header {
     color: oldlace;
+    background-color: darkslateblue;
     text-align: center;
 }
 a {
@@ -12,4 +13,10 @@ a {
 }
 #nav {
     color: oldlace;
+}
+
+#container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
