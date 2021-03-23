@@ -1,8 +1,14 @@
 body {
-    background-image: url(https://lh4.googleusercontent.com/Y4w7Lp-rO416VP6AZPMoXUkpMVLnSScKEsnt5NnqP7radkKCEqGjJG9KGtUDN0okueSOvLvzlhtdLJT5zJYWEmk=w1280);
+    background-color: slategray;
 }
+
 #header {
     color: oldlace;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
 }
 #nav {
     color: oldlace;
