@@ -9,19 +9,19 @@ body {
 }
 a {
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 #nav {
-    color: oldlace;
+    color: rgb(0, 0, 0);
 }
 
 #container {
-    background-color: cornsilk;
+    background-color: rgb(255, 255, 255);
     width: 1750px;
     margin-left: auto;
     margin-right: auto;
 }
 
 #main {
-    color: floralwhite;
+    color: rgb(0, 0, 0);
 }
