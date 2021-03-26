@@ -2,6 +2,10 @@ body {
     background-color: slategray;
 }
 
+#main {
+    margin-left: 10px;
+}
+
 #header {
     color: oldlace;
     background-color: darkslateblue;
