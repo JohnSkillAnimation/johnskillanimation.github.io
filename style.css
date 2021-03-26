@@ -18,7 +18,8 @@ a {
 #container {
     background-color: rgb(255, 255, 255);
     width: 1750px;
-    text-align: center;
+    margin-left: 10px;
+    text-align: left;
 }
 
 #main {
