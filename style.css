@@ -26,7 +26,7 @@ a {
     margin-left: 10px;
     text-align: left;
     border: darkslateblue;
-    border-radius: 25px;
+    border-image-width: 15px;
 }
 
 #main {
