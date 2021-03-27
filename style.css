@@ -25,6 +25,8 @@ a {
     margin-right: auto;
     margin-left: 10px;
     text-align: left;
+    border: darkslateblue;
+    border-radius: 25px;
 }
 
 #main {
