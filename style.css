@@ -74,8 +74,13 @@ a {
 #art_and_animations4 {
     background-color: white;
 }
+
 #reviews {
     text-align: center;
     background-color: darkslateblue;
     color: white;
+}
+
+#yee {
+    text-align: center;
 }
