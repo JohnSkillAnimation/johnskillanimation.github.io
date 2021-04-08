@@ -80,3 +80,7 @@ a {
     background-color: darkslateblue;
     color: white;
 }
+
+#rev {
+    text-align: right;
+}
